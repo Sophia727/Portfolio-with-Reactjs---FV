@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+#root{
+  
+}
+body {
+  overflow-x:hidden;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #0e1e31;
+  /* background: url('/public/Circuit-27725.mp4');
+  background-size: cover; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#container-image:hover #card{
+  opacity: 1;
+}
+#card::-webkit-scrollbar-track{
+  width: 50px;
+  background-color: red;
+}
+#card::-webkit-scrollbar-thumb {
+  background-color: #0e1e31;
+}
+#vid{
+  min-width: 100%;
+  min-height: 100%;
+}
