@@ -3,6 +3,7 @@ import React from "react"
 import Button from "../components/Button"
 import myPic from "../assets/images/IMG_2099.PNG"
 import my_cv from '../assets/files/dummy.pdf'
+import video from '../assets/video/Circuit-27725.mp4'
 
 function Home2() {
   return (
@@ -12,9 +13,10 @@ function Home2() {
         id="vid"
         muted
         loop
-        className=" lg:max-w-[1300px] lg:h-[90%] lg:block lg:w-screen hidden "
+        className=" lg:max-w-[1300px] lg:h-[90%] lg:block lg:w-screen"
       >
-        <source src="Circuit-27725.mp4" />
+        {/* <source src="Circuit-27725.mp4"/> */}
+        <source src={video} />
       </video>
 
       <div className="md:flex lg:block lg:mt-[80px] md:pb-16 w-screen md:justify-around items-center ">

@@ -11,16 +11,16 @@ function AboutMe() {
         
         <div className='text-myWhite px-0 md:pl-5 text-xl mx-8 my-8 md:text-justify lg:leading-10'>
           <p className='mb-2'>
-          Hello and welcome to my portfolio page!
+          Hello and welcome to my Portfolio!
           </p>
           <p className='mb-2'>
-          My name is Sophia Toukram and as you know I am a Web Developper. 
+          My name is Sophia Toukram and I am a Full Stack Web Developer. 
           </p>
           <p className='mb-2'>
-          As a full-Stack specialized, i like to marry beauty and practicality in my projects. 
+          As a Back and Front End specialist who's passionate about vasuals, photography and art, I like to marry beauty & practicality in my projects, on every device.  
           <i className="fa-solid fa-hand-holding-heart"></i> </p>
           <p className='mb-2'>
-          Considering my past experiences, i am a quick learner and a born leader with polyglot advantages. 
+          Considering my past international experiences, I am highly organized and initiative driven person with polyglot advantages. 
           <i className="fa-solid fa-wand-magic-sparkles"></i>          
           </p>
         </div>

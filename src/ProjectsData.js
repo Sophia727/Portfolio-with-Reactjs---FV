@@ -1,5 +1,14 @@
 import defImg from './assets/images/code.png';
 import bookmark from './assets/images/bookmark_sc.png';
+import quote_g from './assets/images/quote_g.png'
+import tasks from './assets/images/tasks.png'
+import weather from './assets/images/weather.png'
+import blackboard from './assets/images/blackboard.png'
+import blog_laravel from './assets/images/blog-laravel.png'
+import creasoul from './assets/images/creasoul.png'
+import calculator from './assets/images/calc.png'
+
+
 
 export const projects = [
     {
@@ -7,51 +16,70 @@ export const projects = [
         name:"Blackboard",
         href:"https://github.com/Sophia727/Blackboard",
         value: "Laravel",
-        description: "Blackboard is fully functionning plateform for universities management. Created with Laravel and supported with a Database",
-        image: defImg
+        description: "Blackboard is fully functionning platform for universities management. Created with Laravel and supported with a Database",
+        image: blackboard
+    },
+    {
+        id: 8,
+        name:"Calculator",
+        href:"sophia727.github.io/Calculator/",
+        value: "Javascript",
+        description: "Colored Calculator",
+        image: calculator
 
     },
     {
         id: 2,
         name:"Inspiring Quotes",
-        href:"",
+        href:"https://sophia727.github.io/js-quote-generator/text.html",
         value: "Javascript",
         description: "Motivational quotes with a soothing animated background. Fetched with APIs",
-        image: defImg
+        image: quote_g
 
     },
+    {
+        id: 7,
+        name:"Creasoul",
+        href:"https://sophia727.github.io/CreaSoul/",
+        value: "Html-Css",
+        description: "Responsive reproduction of creasoul project",
+        image: creasoul
+
+    },
+
     {
         id: 3,
         name:"Blog",
         href:"",
         value: "Laravel",
-        description: "",
-        image: defImg
+        description: "Blog management application with authentifications",
+        image: blog_laravel
     },
     {
         id:4,
         name:"Bookmark",
         href:"https://sophia727.github.io/bookmark/",
         value: "React",
-        description: "",
+        description: "Bookmark application with simple yet beautiful design",
         image: bookmark
     },
     {
-        id: "5",
+        id: 5,
         name:"Weather App",
-        href:"",
+        href:"https://yassine-mg.github.io/weather-app2/",
         value: "React",
         description: "Bold themed Weather App built with APIs",
-        image: defImg
+        image: weather
 
     },
     {
-        id: "6",
-        name:"Groceries List",
-        href:"",
+        id: 6,
+        name:"Daily Tasks",
+        href:"https://sophia727.github.io/daily_tasks_js/",
         value: "Javascript",
-        description: "Green Themed groceries list built with Javascript",
-        image: defImg
+        value: "Html-Css",
+        description: "Grey themed daily tasks list",
+        image: tasks
 
     },
     
@@ -59,7 +87,6 @@ export const projects = [
 
 export const btnType = [
     { id: 1, name: "All", value: "All" },
-    { id: 2, name: "Bootstrap", value: "Bootstrap" },
     { id: 3, name: "Javascript", value: "Javascript" },
     { id: 4, name: "React", value: "React" },
     { id: 5, name: "Laravel", value: "Laravel" },

@@ -53,7 +53,7 @@ function Projects() {
             <div key={filterImage.id} id="container-image" className=" text-white lg:relative">
               <img className="h-[100%]" src={filterImage.image} />
               <div id="card" className="transition-all ease-in-out duration-500 px-5 py-2 bg-[#0e1e3183] lg:bg-[#0e1e31ad] lg:absolute top-[0px] lg:opacity-0 lg:overflow-y-scroll lg:w-[100%] lg:h-[100%]">
-                <h2 className="">{filterImage.name}</h2>
+                <a href={filterImage.href} target="_blank"><h2 className="">{filterImage.name}</h2></a>
                 <h6 className="text-sm">{filterImage.value}</h6>
                 <p className=" my-3 text-sm text-myLightBlue leading-6 ">{filterImage.description}</p>
               </div>
