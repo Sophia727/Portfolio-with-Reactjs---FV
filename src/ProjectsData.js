@@ -86,7 +86,7 @@ export const projects = [
     {
         id: 9,
         name:"Background Generator",
-        href:"https://sophia727.github.io/daily_tasks_js/",
+        href:"https://sophia727.github.io/background_generator/",
         value: "Javascript",
         description: "Background Generator with Javascript",
         image: blink
