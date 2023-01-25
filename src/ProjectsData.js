@@ -7,6 +7,8 @@ import blackboard from './assets/images/blackboard.png'
 import blog_laravel from './assets/images/blog-laravel.png'
 import creasoul from './assets/images/creasoul.png'
 import calculator from './assets/images/calc.png'
+import blink from './assets/images/blink.png'
+
 
 
 
@@ -50,7 +52,7 @@ export const projects = [
     {
         id: 3,
         name:"Blog",
-        href:"",
+        href:"https://github.com/Sophia727/blog_laravel",
         value: "Laravel",
         description: "Blog management application with authentifications",
         image: blog_laravel
@@ -77,11 +79,20 @@ export const projects = [
         name:"Daily Tasks",
         href:"https://sophia727.github.io/daily_tasks_js/",
         value: "Javascript",
-        value: "Html-Css",
         description: "Grey themed daily tasks list",
         image: tasks
 
     },
+    {
+        id: 9,
+        name:"Background Generator",
+        href:"https://sophia727.github.io/daily_tasks_js/",
+        value: "Javascript",
+        description: "Background Generator with Javascript",
+        image: blink
+
+    },
+
     
 ]
 
