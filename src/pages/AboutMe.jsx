@@ -17,7 +17,7 @@ function AboutMe() {
           My name is Sophia Toukram and I am a Full Stack Web Developer. 
           </p>
           <p className='mb-2'>
-          As a Back and Front End specialist who's passionate about vasuals, photography and art, I like to marry beauty & practicality in my projects, on every device.  
+          As a Back and Front End specialist who's passionate about visuals, photography and art, I like to marry beauty & practicality in my projects, and on every device.  
           <i className="fa-solid fa-hand-holding-heart"></i> </p>
           <p className='mb-2'>
           Considering my past international experiences, I am highly organized and initiative driven person with polyglot advantages. 
