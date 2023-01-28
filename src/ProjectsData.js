@@ -24,7 +24,7 @@ export const projects = [
     {
         id: 8,
         name:"Calculator",
-        href:"sophia727.github.io/Calculator/",
+        href:"https://sophia727.github.io/Calculator/",
         value: "Javascript",
         description: "Colored Calculator",
         image: calculator
