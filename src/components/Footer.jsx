@@ -9,16 +9,16 @@ function Footer() {
     <div className='bg-[#000409] md:p-10 flex flex-col p-5' >
       
       <div className='justify-center space-x-7 flex-row flex md:hidden'>
-      <a href="http://" target="_blank" className=" p-2 bg_icons hover:scale-125">
+      {/* <a href="http://" target="_blank" className=" p-2 bg_icons hover:scale-125">
           <FaInstagram color="white" className="text-2xl" />
-        </a>
-        <a href="http://" target="_blank" className="p-2 bg_icons hover:scale-125">
+        </a> */}
+        <a href="https://github.com/Sophia727" target="_blank" className="p-2 bg_icons hover:scale-125">
           <FaGithub color="white" className="text-2xl" />
         </a>
-        <a href="http://" target="_blank" className="p-2 bg_icons hover:scale-125">
+        <a href="http://linkedin.com/in/sophia-toukram" target="_blank" className="p-2 bg_icons hover:scale-125">
           <FaLinkedin color="white" className="text-2xl" />
         </a>
-        <a href="http://" target="_blank" className="p-2 bg_icons hover:scale-125">
+        <a href="mailto:sophiatoukram@gmail.com" target="_blank" className="p-2 bg_icons hover:scale-125">
           <AiOutlineMail color="white" className="text-2xl" />
         </a>
       </div>

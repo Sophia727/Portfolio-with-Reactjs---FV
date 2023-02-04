@@ -7,7 +7,7 @@ import Error from './pages/Error';
 import Contact from './pages/Contact';
 import Projects from './pages/Projects';
 import Layout from './Layout';
-import Home from './pages/Home';
+// import Home from './pages/Home';
 import App from './App';
 import Home2 from './pages/Home2';
 

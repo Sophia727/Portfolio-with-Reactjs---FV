@@ -5,7 +5,7 @@ import tasks from './assets/images/tasks.png'
 import weather from './assets/images/weather.png'
 import blackboard from './assets/images/blackboard.png'
 import blog_laravel from './assets/images/blog-laravel.png'
-import creasoul from './assets/images/creasoul.png'
+import MissHarmonie from './assets/images/MissHarmonie.png'
 import calculator from './assets/images/calc.png'
 import blink from './assets/images/blink.png'
 
@@ -41,11 +41,11 @@ export const projects = [
     },
     {
         id: 7,
-        name:"Creasoul",
+        name:"Miss Harmonie",
         href:"https://sophia727.github.io/CreaSoul/",
-        value: "Html-Css",
-        description: "Responsive reproduction of creasoul project",
-        image: creasoul
+        value: "ReactJS",
+        description: "ReactJS and Tailwind built ",
+        image: MissHarmonie
 
     },
 
@@ -69,7 +69,7 @@ export const projects = [
         id: 5,
         name:"Weather App",
         href:"https://yassine-mg.github.io/weather-app2/",
-        value: "React",
+        value: "ReactJS",
         description: "Bold themed Weather App built with APIs",
         image: weather
 
@@ -99,7 +99,6 @@ export const projects = [
 export const btnType = [
     { id: 1, name: "All", value: "All" },
     { id: 3, name: "Javascript", value: "Javascript" },
-    { id: 4, name: "React", value: "React" },
+    { id: 4, name: "ReactJS", value: "ReactJS" },
     { id: 5, name: "Laravel", value: "Laravel" },
-    { id: 6, name: "Html-Css", value: "Html-Css" },
   ];
