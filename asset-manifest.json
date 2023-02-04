@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio_reactjs_fv/static/css/main.ad836a85.css",
-    "main.js": "/portfolio_reactjs_fv/static/js/main.1307c8dd.js",
+    "main.css": "/portfolio_reactjs_fv/static/css/main.41ba3d91.css",
+    "main.js": "/portfolio_reactjs_fv/static/js/main.e1516cf5.js",
     "static/media/Circuit-27725.mp4": "/portfolio_reactjs_fv/static/media/Circuit-27725.b43b4896abf3f2fc1214.mp4",
     "static/media/tasks.png": "/portfolio_reactjs_fv/static/media/tasks.0a5f24a07e6472c19000.png",
     "static/media/quote_g.png": "/portfolio_reactjs_fv/static/media/quote_g.978f2fe10d0609d5c29b.png",
+    "static/media/MissHarmonie.png": "/portfolio_reactjs_fv/static/media/MissHarmonie.091e7f7e4953300c23a6.png",
     "static/media/do.svg": "/portfolio_reactjs_fv/static/media/do.d2287a1e1eee0805fc27.svg",
-    "static/media/creasoul.png": "/portfolio_reactjs_fv/static/media/creasoul.215eb784926d329149c5.png",
     "static/media/IMG_2099.PNG": "/portfolio_reactjs_fv/static/media/IMG_2099.83c83cdb6f71e9e922b1.PNG",
     "static/media/rs.svg": "/portfolio_reactjs_fv/static/media/rs.dc155455e86e12200cb5.svg",
     "static/media/bo.svg": "/portfolio_reactjs_fv/static/media/bo.e0a90fef5f7c6c6ab66f.svg",
@@ -280,11 +280,11 @@
     "static/media/de.svg": "/portfolio_reactjs_fv/static/media/de.6435bf24d148ca7248e7.svg",
     "static/media/bd.svg": "/portfolio_reactjs_fv/static/media/bd.0ad8c443ef4d47ea0497.svg",
     "static/media/id.svg": "/portfolio_reactjs_fv/static/media/id.f624e2c8444a7794b357.svg",
-    "main.ad836a85.css.map": "/portfolio_reactjs_fv/static/css/main.ad836a85.css.map",
-    "main.1307c8dd.js.map": "/portfolio_reactjs_fv/static/js/main.1307c8dd.js.map"
+    "main.41ba3d91.css.map": "/portfolio_reactjs_fv/static/css/main.41ba3d91.css.map",
+    "main.e1516cf5.js.map": "/portfolio_reactjs_fv/static/js/main.e1516cf5.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad836a85.css",
-    "static/js/main.1307c8dd.js"
+    "static/css/main.41ba3d91.css",
+    "static/js/main.e1516cf5.js"
   ]
 }
