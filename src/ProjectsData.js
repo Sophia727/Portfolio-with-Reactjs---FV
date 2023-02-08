@@ -42,9 +42,9 @@ export const projects = [
     {
         id: 7,
         name:"Miss Harmonie",
-        href:"https://sophia727.github.io/BeautySalon_MissHarmonie",
+        href:"sophia727.github.io/miss-harmonie/",
         value: "ReactJS",
-        description: "ReactJS and Tailwind built ",
+        description: "Fully Functionning Websit for a beaity Salon in Marrakesh. ReactJS and Tailwind built.",
         image: MissHarmonie
 
     },
